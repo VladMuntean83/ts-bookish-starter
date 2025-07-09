@@ -12,3 +12,4 @@ This repo contains a starter Express server for use in the Bookish bootcamp exer
 4. Run the code!
      - Run in development mode with hot reloading with `npm run dev`
      - Run without hot reloading using `npm start`
+     - You can check that the formatting of all files is acceptable using `npm run lint`
