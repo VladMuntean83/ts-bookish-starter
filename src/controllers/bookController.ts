@@ -35,7 +35,6 @@ class BookController {
     }
 
     async createBook(req: Request, res: Response) {
-        // TODO: implement functionality
         try {
             await addBook(req.query);
             return res
